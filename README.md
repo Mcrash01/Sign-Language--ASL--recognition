@@ -1,2 +1,2 @@
 # Sign Language (ASL) recognition
-This is our AI project
+This is a demo of our AI project
